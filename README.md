@@ -1,6 +1,6 @@
 # 🧠 E³ – Enterprise Entity Expansion
 
-> **E³ (Explainable Entity Expansion)** is an LLM-driven framework that autonomously extracts, expands, and connects knowledge from text into a dynamic **Neo4j knowledge graph**, complete with explainable relationship confidence and contextual grounding.
+> **E³** is an LLM-driven framework that autonomously extracts, expands, and connects knowledge from text into a dynamic **Neo4j knowledge graph**, complete with explainable relationship confidence and contextual grounding.
 
 ---
 
