@@ -127,7 +127,6 @@ requirements.txt       # Python dependencies
 
 ## 👥 Contributors  
 - **Arko Bhattacharya** — Project Lead & Developer  
-- Duke AI Hackathon 2025 team  
 - Open contributions welcome via pull requests and issues.
 
 ---
