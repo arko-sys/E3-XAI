@@ -1,4 +1,4 @@
-# 🧠 E³ – Enterprise / Ecosystem Engine (Duke AI Hack)
+# 🧠 E³ – Enterprise Entity Expansion
 
 > **E³ (Explainable Entity Expansion)** is an LLM-driven framework that autonomously extracts, expands, and connects knowledge from text into a dynamic **Neo4j knowledge graph**, complete with explainable relationship confidence and contextual grounding.
 
@@ -85,31 +85,8 @@ requirements.txt       # Python dependencies
 
 ---
 
-## 🛠 Setup & Run  
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/arko-sys/E3-Duke-AIHack.git
-   cd E3-Duke-AIHack
-   ```
-
-2. **Add environment variables (`.env`)**  
-   ```ini
-   OPENAI_API_KEY=your_openai_key
-   NEO4J_CONNECTION_URL=bolt://host:port
-   NEO4J_USER=username
-   NEO4J_PASSWORD=password
-   ```
-
-3. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the app**  
-   ```bash
-   streamlit run main.py
-   ```
+## 🛠 Test App
+- https://e3-xai.onrender.com/
 
 ---
 
